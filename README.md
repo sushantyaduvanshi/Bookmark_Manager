@@ -27,7 +27,7 @@
     > bookmark_url\
     > bookmark_source_name
 
-- `/_api/browse` : Search/Browse Database content ( via POST request) filtered by Date range and title pattern of stored bookmarks. Also Sort the result by the bookmark field specified. 
+- `/_api/browse` : Search/Browse Database content ( via POST request) filtered by Date range and title pattern of stored bookmarks. Also Sort the result by the bookmark field specified.\
 Returns : Customer_id, latitude, longitude, title, date, source_name.
     > "POST" request parameters:\
     > date_range :   (YYYY-MM-DD/YYYY-MM-DD)\
